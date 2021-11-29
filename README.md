@@ -25,5 +25,5 @@ Create Frontend for a task management system (single page)
 
 
 Shortest Lifts (Compulsory)
-User A is travelling from delhi to gurgaon he/she can take lift/help from friends going from one location to another (e.g : rohini to rajouri garden or cybercity to saket) try to find a possible path of friends user can meet to reach his destination.
+- User A is travelling from delhi to gurgaon he/she can take lift/help from friends going from one location to another (e.g : rohini to rajouri garden or cybercity to saket) try to find a possible path of friends user can meet to reach his destination.
 Note: For this question try to think about the possible scenairio to solve this issue.
